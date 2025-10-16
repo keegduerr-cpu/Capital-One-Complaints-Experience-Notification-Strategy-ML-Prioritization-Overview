@@ -1,6 +1,6 @@
 # Capital One — Complaints Experience: Notification Strategy & ML Prioritization
 
-## Table of Contents
+## Table of Contents 
 - [Overview](#overview)
 - [My Role as Product Manager](#my-role-as-product-manager)
 - [Product Principles](#product-principles)
