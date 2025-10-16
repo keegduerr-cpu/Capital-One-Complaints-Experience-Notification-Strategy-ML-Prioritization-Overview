@@ -1,8 +1,5 @@
 # Capital One — Complaints Experience: Notification Strategy & ML Prioritization
 
-> [!TIP]
-> This README preserves every word of your original write-up. Only formatting, a Table of Contents, and an optional diagram have been added for GitHub readability.
-
 ## Table of Contents
 - [Overview](#overview)
 - [My Role as Product Manager](#my-role-as-product-manager)
