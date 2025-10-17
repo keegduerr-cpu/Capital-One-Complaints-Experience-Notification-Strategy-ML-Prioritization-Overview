@@ -34,7 +34,7 @@ At Capital One, product managers are accountable owners of an “area of intent.
 
 - Design decisions begin with the customer. Internally we track time, throughput, and cost; customers experience delight, clarity, and pain. I anchor every choice to the customer POV.
 - Hold the vision steady; flex the details. Ship, learn, and iterate rather than stall in indecision.
-- Prioritize ruthlessly. Value clarity—and bring even disappointed stakeholders along with the strategy.
+- Prioritize ruthlessly. Value clarity and bring even disappointed stakeholders along with the strategy.
 
 ## Context: Why Complaints Matter
 
